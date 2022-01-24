@@ -1,0 +1,5 @@
+- Run the file server.py using python3 server.py <your ip address> <any free port number>
+
+- Open 3 client.
+
+- On each client, run client.py using python3 client.py <your ip address> <server port number>
